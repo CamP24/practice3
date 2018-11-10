@@ -6,3 +6,21 @@
     background-size: cover;
     height: 100vh;
 }
+
+.m-0, .col-12 {
+    text-align: left;
+    position: absolute;
+    bottom: 25px;
+    left: 10px;
+    font-size: 32px;
+    font-family: 'Frank Ruhl Libre', serif;
+    font-weight: lighter;
+    font-style: oblique;
+    font-color: #7D8986;
+}
+
+.blockquote-footer {
+    font-family: 'Frank Ruhl Libre', serif;
+    font-weight: lighter;
+    font-color: #7D8986;
+}
